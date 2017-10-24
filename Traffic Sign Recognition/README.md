@@ -1,0 +1,1 @@
+This repository does not include the input data set for this project due to size constraints. The data set can be found at http://btsd.ethz.ch/shareddata/  . Not all data sets are required. Just a sufficient number of positive and negative detections will do which were approximately 8000 and 3000 for this project

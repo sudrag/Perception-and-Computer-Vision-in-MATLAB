@@ -26,7 +26,7 @@ Identifies the currently occupied lane using Hough lines and detects the variati
 
 ## Traffic Sign Detection
 
-Analyzes all signs on a drive through a crowded street and recognizes the signs in its database using HOG feature detection
+Analyzes all signs on a drive through a crowded street and recognizes the signs in its database using MSER and SVM classification of HOG features detected
 
 <a href="https://imgflip.com/gif/1y169j"><img src="https://i.imgflip.com/1y169j.gif" title="Traffic Sign Recognition"/></a>
 
